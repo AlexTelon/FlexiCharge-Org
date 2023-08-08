@@ -33,13 +33,12 @@
 ## FlexiCharge-Android
 | GitHub Handle | Role |
 |---------------|------|
-|  @example |   PO   |
-|  @example2 |   developer   |
+|               |      |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
 |---------------|------|
-|  @newHandleP    |   developer   |
+|               |      |
 
 ## FlexiCharge-Org
 | GitHub Handle | Role |
