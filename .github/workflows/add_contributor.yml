@@ -35,6 +35,7 @@ jobs:
             echo "Either GITHUB_HANDLE or REPO_NAME is empty. Exiting..."
             exit 1
           fi
+          echo "$GITHUB_OUTPUT"
 
       - name: Add as contributor
         run: |
