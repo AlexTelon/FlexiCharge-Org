@@ -26,21 +26,13 @@ jobs:
           # Determine the section (i.e., repo) by looking for the last "##" before the change.
           REPO_NAME=$(cat MEMBERS.md| grep -B999 "$GITHUB_HANDLE" | grep "## " | tail -1 | sed 's/## //')
 
-
           if [[ -n "$GITHUB_HANDLE" && -n "$REPO_NAME" ]]; then
             # Remove @ from the handle and store
-            echo "github_handle=${GITHUB_HANDLE//@/}" >> "$GITHUB_OUTPUT"
-            echo "repo_name=$REPO_NAME" >> "$GITHUB_OUTPUT"
+            GITHUB_HANDLE=${GITHUB_HANDLE//@/}
           else
             echo "Either GITHUB_HANDLE or REPO_NAME is empty. Exiting..."
             exit 1
           fi
-          echo "$GITHUB_OUTPUT"
-
-      - name: Add as contributor
-        run: |
-          GITHUB_HANDLE=${{ steps.get-member.outputs.github_handle }}
-          REPO_NAME=${{ steps.get-member.outputs.repo_name }}
 
           echo "Detected Repository: $REPO_NAME"
           echo "Detected GitHub Handle: $GITHUB_HANDLE"
