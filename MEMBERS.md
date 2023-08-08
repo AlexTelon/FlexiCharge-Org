@@ -34,6 +34,7 @@
 | GitHub Handle | Role |
 |---------------|------|
 |  @example |   PO   |
+|  @example2 |   developer   |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
