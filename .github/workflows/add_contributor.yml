@@ -27,8 +27,9 @@ jobs:
           REPO_NAME=$(cat MEMBERS.md| grep -B999 "$GITHUB_HANDLE" | grep "## " | tail -1 | sed 's/## //')
 
           # Remove @ from the handle and store
-          echo "::set-output name=github_handle::${GITHUB_HANDLE//@/}"
-          echo "::set-output name=repo_name::$REPO_NAME"
+          echo "github_handle=${GITHUB_HANDLE//@/}" >> $GITHUB_OUTPUT
+          echo "repo_name=$REPO_NAME" >> $GITHUB_OUTPUT
+
 
       - name: Add as contributor
         run: |
