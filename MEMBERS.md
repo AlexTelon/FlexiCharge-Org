@@ -33,7 +33,7 @@
 ## FlexiCharge-Android
 | GitHub Handle | Role |
 |---------------|------|
-|               |      |
+|  @example |   PO   |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
