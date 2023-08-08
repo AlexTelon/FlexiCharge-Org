@@ -1,7 +1,7 @@
 name: Add as Contributor
 
 on:
-  pull_request:
+  push:
     branches:
       - main
     paths:
