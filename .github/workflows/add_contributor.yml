@@ -18,6 +18,7 @@ jobs:
         id: get-member
         run: |
           # Get all added lines.
+          echo $(git log -p -n 1 -- MEMBERS.md)
           ADDED_LINES=$(git log -p -n 1 -- MEMBERS.md | grep "^+[^+]")
           # Among the added lines there should be 1 and only 1 added handle. Lets find it!
           # +|  @example     |      |
