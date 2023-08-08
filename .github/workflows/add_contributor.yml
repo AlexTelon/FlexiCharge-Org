@@ -1,0 +1,46 @@
+name: Add as Contributor
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'MEMBERS.md'
+
+jobs:
+  add-contributor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Determine added member and section
+        id: get-member
+        run: |
+          # Get all added lines.
+          ADDED_LINES=$(git diff --unified=0 HEAD^ HEAD MEMBERS.md | grep "^+[^+]")
+          # Among the added lines there should be 1 and only 1 added handle. Lets find it!
+          # +|  @example     |      |
+          GITHUB_HANDLE=$(echo "$ADDED_LINES" | grep -Eo "@[a-zA-Z0-9_-]+")
+
+          # Determine the section (i.e., repo) by looking for the last "##" before the change.
+          REPO_NAME=$(cat MEMBERS.md| grep -B999 "$GITHUB_HANDLE" | grep "## " | tail -1 | sed 's/## //')
+
+          # Remove @ from the handle and store
+          echo "::set-output name=github_handle::${GITHUB_HANDLE//@/}"
+          echo "::set-output name=repo_name::$REPO_NAME"
+
+      - name: Add as contributor
+        run: |
+          GITHUB_HANDLE=${{ steps.get-member.outputs.github_handle }}
+          REPO_NAME=${{ steps.get-member.outputs.repo_name }}
+
+          echo "Detected Repository: $REPO_NAME"
+          echo "Detected GitHub Handle: $GITHUB_HANDLE"
+
+          # Dont run these for now.
+          # Use GitHub API to add user to the repo as a contributor.
+          # curl -X PUT \
+          #   -H "Authorization: token ${{ secrets.GH_TOKEN_FLEXICHARGE_ADD_CONTRIBUTOR }}" \
+          #   -H "Accept: application/vnd.github.v3+json" \
+          #   "https://api.github.com/repos/AlexTelon/$REPO_NAME/collaborators/$GITHUB_HANDLE"
