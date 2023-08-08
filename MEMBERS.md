@@ -39,7 +39,7 @@
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
 |---------------|------|
-|               |      |
+|  @newHandleP    |   developer   |
 
 ## FlexiCharge-Org
 | GitHub Handle | Role |
