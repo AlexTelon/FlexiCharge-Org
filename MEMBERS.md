@@ -46,7 +46,6 @@
 | @FlygandeScotty    |   PM   |
 | @RobinDavidss0n    |  Hardware Architect    |
 | @AlexTelon    |  Software Architect    |
-| @isakalmgren    |  tmp    |
 
 ## FlexiCharge-Test-and-integration
 | GitHub Handle | Role |
