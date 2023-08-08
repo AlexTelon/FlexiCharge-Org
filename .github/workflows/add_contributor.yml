@@ -18,7 +18,7 @@ jobs:
         id: get-member
         run: |
           # Get all added lines.
-          ADDED_LINES=$(git diff --unified=0 HEAD^ HEAD MEMBERS.md | grep "^+[^+]")
+          ADDED_LINES=$(git log -p -n 1 -- MEMBERS.md | grep "^+[^+]")
           # Among the added lines there should be 1 and only 1 added handle. Lets find it!
           # +|  @example     |      |
           GITHUB_HANDLE=$(echo "$ADDED_LINES" | grep -Eo "@[a-zA-Z0-9_-]+")
