@@ -39,9 +39,8 @@ jobs:
           echo "Detected Repository: $REPO_NAME"
           echo "Detected GitHub Handle: $GITHUB_HANDLE"
 
-          # Dont run these for now.
           # Use GitHub API to add user to the repo as a contributor.
-          # curl -X PUT \
-          #   -H "Authorization: token ${{ secrets.GH_TOKEN_FLEXICHARGE_ADD_CONTRIBUTOR }}" \
-          #   -H "Accept: application/vnd.github.v3+json" \
-          #   "https://api.github.com/repos/AlexTelon/$REPO_NAME/collaborators/$GITHUB_HANDLE"
+          curl -X PUT \
+             -H "Authorization: token ${{ secrets.GH_TOKEN_FLEXICHARGE_ADD_CONTRIBUTOR }}" \
+             -H "Accept: application/vnd.github.v3+json" \
+             "https://api.github.com/repos/AlexTelon/$REPO_NAME/collaborators/$GITHUB_HANDLE"
