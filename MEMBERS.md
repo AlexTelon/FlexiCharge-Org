@@ -1,6 +1,8 @@
 # Members
 Feel free to make changes like add more developer spots etc if needed. The labels here are suggestions and I hope they should be correct. But if you find an error or need to add a new row do so.
 
+When adding you name do so in this format: `[@AlexTelon](https://github.com/AlexTelon)` so it becomes a markdown link.
+
 ## FlexiCharge-BMS
 Note PO/SM roles for BMS and Charger are shared.
 | GitHub Handle | Role |
@@ -86,9 +88,9 @@ The mobile team probably only needs this repo. But if you need collaboration acc
 ## FlexiCharge-Org
 | GitHub Handle | Role |
 |---------------|------|
-| @FlygandeScotty    |   PM   |
-| @RobinDavidss0n    |  Hardware Architect    |
-| @AlexTelon    |  Software Architect    |
+| [@FlygandeScotty](https://github.com/FlygandeScotty)    |   PM   |
+| [@RobinDavidss0n](https://github.com/RobinDavidss0n)    |  Hardware Architect    |
+| [@AlexTelon](https://github.com/AlexTelon)    |  Software Architect    |
 |               |  Collaboration Master    |
 |               |  Build Master    |
 

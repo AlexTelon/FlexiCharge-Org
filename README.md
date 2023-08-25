@@ -1,5 +1,7 @@
 # Flexicharge Organization
 
+Who does what? See [MEMBERS.md](MEMBERS.md)
+
 Repos in this project (not all will be used during the 2023 course):
 
 **Backend**
