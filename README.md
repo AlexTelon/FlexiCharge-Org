@@ -1,4 +1,4 @@
-# Flexicharge Organization
+# ![logo](Logo_compliment_color.png) Flexicharge Organization
 
 Who does what? See [MEMBERS.md](MEMBERS.md)
 
