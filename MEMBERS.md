@@ -8,7 +8,7 @@ Note PO/SM roles for BMS and Charger are shared.
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
-|               |  SM  |
+| [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
