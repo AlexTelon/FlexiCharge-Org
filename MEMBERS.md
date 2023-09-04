@@ -26,7 +26,7 @@ Note PO/SM roles for BMS and Charger are shared.
 ## FlexiCharge-Backend
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+| [@loan21xw](https://github.com/loan21xw)    |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
