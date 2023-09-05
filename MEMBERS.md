@@ -44,7 +44,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
+| [@vikjoh1](https://github.com/vikjoh1)    |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 
