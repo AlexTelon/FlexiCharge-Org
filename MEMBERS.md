@@ -73,7 +73,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-iOS
@@ -82,7 +82,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-Org
