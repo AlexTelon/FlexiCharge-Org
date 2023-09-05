@@ -55,7 +55,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
-|               |  Developer  |
+| [@flrn579](https://github.com/flrn579) |  Developer  |
 
 ## FlexiCharge-Cross-Platform
 | GitHub Handle | Role |
