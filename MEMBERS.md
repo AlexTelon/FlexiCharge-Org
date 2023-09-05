@@ -6,10 +6,10 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-BMS
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+|[@ljungqvistaxel](https://github.com/ljungqvistaxel)|  PO  |
 | [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+| [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
@@ -18,7 +18,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
+|  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
@@ -44,7 +44,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |   [@eejebring](https://github.com/eejebring)            |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
+| [@vikjoh1](https://github.com/vikjoh1)    |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 
@@ -55,7 +55,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
-|               |  Developer  |
+| [@flrn579](https://github.com/flrn579) |  Developer  |
 
 ## FlexiCharge-Cross-Platform
 | GitHub Handle | Role |
