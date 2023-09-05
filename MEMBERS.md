@@ -6,7 +6,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-BMS
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+|[@ljungqvistaxel](https://github.com/ljungqvistaxel)|  PO  |
 | [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
