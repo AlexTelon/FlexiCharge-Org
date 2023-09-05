@@ -192,4 +192,7 @@ pyrightconfig.json
 .history
 .ionide
 
+#ignore intellij idea workspace files
+/.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
