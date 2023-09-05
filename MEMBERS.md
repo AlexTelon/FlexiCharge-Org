@@ -4,7 +4,6 @@ Feel free to make changes like add more developer spots etc if needed. The label
 When adding you name do so in this format: `[@AlexTelon](https://github.com/AlexTelon)` so it becomes a markdown link.
 
 ## FlexiCharge-BMS
-Note PO/SM roles for BMS and Charger are shared.
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
@@ -22,26 +21,31 @@ Note PO/SM roles for BMS and Charger are shared.
 |               |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
+|               |  Developer  |
 
 ## FlexiCharge-Backend
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
-|               |  Developer  |
-|               |  OCPP  |
-|               |  HTTP  |
-|               |  Database  |
+|               |  Test Lead - DB |
+|               |  Developer - DB |
+|               |  Developer - DB |
+|               |  Test Lead - HTTP |
+|               |  Developer - HTTP |
+|               |  Developer - HTTP |
+|               |  Test Lead - OCPP |
+|               |  Developer - OCPP |
+|               |  Developer - OCPP |
 
 
 ## FlexiCharge-Admin-GUI
-PO/SM roles for Admin GUI and My Pages are shared. So if you are a PO for "WEB" add yourself to both here below.
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
+|               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-My-pages
@@ -54,8 +58,6 @@ PO/SM roles for Admin GUI and My Pages are shared. So if you are a PO for "WEB" 
 |               |  Developer  |
 
 ## FlexiCharge-Cross-Platform
-The mobile team probably only needs this repo. But if you need collaboration access to the Android or iOS repo you may add yourself to those repos below as well.
-
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
@@ -73,7 +75,6 @@ The mobile team probably only needs this repo. But if you need collaboration acc
 |               |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
-|               |  Developer  |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
@@ -81,7 +82,6 @@ The mobile team probably only needs this repo. But if you need collaboration acc
 |               |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 
