@@ -19,7 +19,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  PO  |
 |               |  SM  |
 |  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
-|               |  Developer  |
+|  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 
