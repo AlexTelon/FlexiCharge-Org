@@ -63,6 +63,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  PO  |
 | [@AntonThoresson](https://github.com/AntonThoresson)    |  SM  |
 |               |  Test Lead  |
+| [@Lundgr0in](https://github.com/Lundgr0in) (Jesper) |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
@@ -73,7 +74,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-iOS
@@ -82,7 +83,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-Org
@@ -91,10 +92,10 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@FlygandeScotty](https://github.com/FlygandeScotty)    |   PM   |
 | [@RobinDavidss0n](https://github.com/RobinDavidss0n)    |  Hardware Architect    |
 | [@AlexTelon](https://github.com/AlexTelon)    |  Software Architect    |
-|               |  Collaboration Master    |
+| [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
 |               |  Build Master    |
 
 ## FlexiCharge-Test-and-integration
 | GitHub Handle | Role |
 |---------------|------|
-|               |      |
+| [@ellencarlsson](https://github.com/ellencarlsson)              |   Build Master   |
