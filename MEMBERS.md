@@ -91,7 +91,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@FlygandeScotty](https://github.com/FlygandeScotty)    |   PM   |
 | [@RobinDavidss0n](https://github.com/RobinDavidss0n)    |  Hardware Architect    |
 | [@AlexTelon](https://github.com/AlexTelon)    |  Software Architect    |
-|               |  Collaboration Master    |
+| [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
 |               |  Build Master    |
 
 ## FlexiCharge-Test-and-integration
