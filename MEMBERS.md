@@ -29,7 +29,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@loan21xw](https://github.com/loan21xw)    |  PO  |
 |               |  SM  |
 |               |  Test Lead - DB |
-|               |  Developer - DB |
+| [@Axel-RD](https://github.com/Axel-RD) |  Developer - DB |
 |               |  Developer - DB |
 |               |  Test Lead - HTTP |
 |[@albin02forsberg](https://github.com/albin02forsberg)              |  Developer - HTTP |
