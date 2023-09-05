@@ -70,7 +70,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-Android
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+| [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
@@ -79,7 +79,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+| [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
