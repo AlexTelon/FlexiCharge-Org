@@ -42,7 +42,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-Admin-GUI
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+|   [@eejebring](https://github.com/eejebring)            |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
