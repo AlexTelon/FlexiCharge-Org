@@ -10,7 +10,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
 | [@davidtey](https://github.com/davidtey) (David) |  Test Lead  |
 | [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
-| [@larssonFilip(https://github.com/LarssonFilip)] (Filip)  |  Developer  |
+| [@larssonFilip](https://github.com/LarssonFilip). (Filip)  |  Developer  |
 |  [@KevFord](https://github.com/KevFord)             |  Developer  |
 |               |  Developer  |
 ## FlexiCharge-Charge-station-plus
