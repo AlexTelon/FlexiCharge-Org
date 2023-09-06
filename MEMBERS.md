@@ -98,3 +98,4 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | GitHub Handle | Role |
 |---------------|------|
 | [@ellencarlsson](https://github.com/ellencarlsson)              |   Build Master   |
+| [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
