@@ -17,7 +17,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
-|               |  SM  |
+|  [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)|  SM  |
 |  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
 |  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
 |               |  Developer  |
