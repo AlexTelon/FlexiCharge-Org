@@ -68,13 +68,13 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  Developer  |
 
 ## FlexiCharge-Android
-| GitHub Handle | Role |
-|---------------|------|
-| [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
-| [@emelyKara](https://github.com/emelyKara) (Emely) |  SM  |
-|               |  Test Lead  |
-|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
-|     [@Ackekarl](https://github.com/Ackekarl)          |  Developer  |
+| GitHub Handle                                            | Role |
+|----------------------------------------------------------|------|
+| [@foal20ym](https://github.com/foal20ym) (Alexander)     |  PO  |
+| [@emelyKara](https://github.com/emelyKara) (Emely)       |  SM  |
+| [@TGH97] (https://github.com/TGH97) (Talal)              |  Test Lead  |
+| [@CDavidSamuelsson](https://github.com/CDavidSamuelsson) |  Developer  |
+| [@Ackekarl](https://github.com/Ackekarl)                 |  Developer  |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
