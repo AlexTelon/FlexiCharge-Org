@@ -11,7 +11,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  Test Lead  |
 | [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
 |               |  Developer  |
-|               |  Developer  |
+|  [@KevFord](https://github.com/KevFord)             |  Developer  |
 |               |  Developer  |
 ## FlexiCharge-Charge-station-plus
 | GitHub Handle | Role |
