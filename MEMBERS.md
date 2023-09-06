@@ -92,7 +92,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@RobinDavidss0n](https://github.com/RobinDavidss0n)    |  Hardware Architect    |
 | [@AlexTelon](https://github.com/AlexTelon)    |  Software Architect    |
 | [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
-|               |  Build Master    |
+| [@ellencarlsson](https://github.com/ellencarlsson)              |  Build Master    |
 
 ## FlexiCharge-Test-and-integration
 | GitHub Handle | Role |
