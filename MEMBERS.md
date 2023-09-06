@@ -19,7 +19,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  PO  |
 |               |  SM  |
 |  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
-|               |  Developer  |
+|  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 
@@ -45,7 +45,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |   [@eejebring](https://github.com/eejebring)            |  PO  |
 |               |  SM  |
 | [@vikjoh1](https://github.com/vikjoh1)    |  Test Lead  |
-|               |  Developer  |
+| [@Ville-Wilson](https://github.com/Ville-Wilson)              |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-My-pages
@@ -62,7 +62,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
+| [@Lundgr0in](https://github.com/Lundgr0in) (Jesper) |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
@@ -73,7 +73,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-iOS
@@ -82,7 +82,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-Org
@@ -97,4 +97,4 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-Test-and-integration
 | GitHub Handle | Role |
 |---------------|------|
-|               |      |
+| [@ellencarlsson](https://github.com/ellencarlsson)              |   Build Master   |
