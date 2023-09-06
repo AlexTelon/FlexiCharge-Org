@@ -6,20 +6,20 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-BMS
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+|[@ljungqvistaxel](https://github.com/ljungqvistaxel)|  PO  |
 | [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
-|               |  Test Lead  |
-|               |  Developer  |
-|               |  Developer  |
-|               |  Developer  |
+| [@davidtey](https://github.com/davidtey) (David) |  Test Lead  |
+| [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
+| [@larssonFilip](https://github.com/LarssonFilip). (Filip)  |  Developer  |
+|  [@KevFord](https://github.com/KevFord)             |  Developer  |
 |               |  Developer  |
 ## FlexiCharge-Charge-station-plus
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
-|               |  Developer  |
+|  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
+|  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 
@@ -29,13 +29,13 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@loan21xw](https://github.com/loan21xw)    |  PO  |
 |               |  SM  |
 |               |  Test Lead - DB |
-|               |  Developer - DB |
+| [@Axel-RD](https://github.com/Axel-RD) |  Developer - DB |
 |               |  Developer - DB |
 |               |  Test Lead - HTTP |
-|               |  Developer - HTTP |
-|               |  Developer - HTTP |
+|[@albin02forsberg](https://github.com/albin02forsberg)              |  Developer - HTTP |
+|[@victor2000sv](https://github.com/victor2000sv)        |  Developer - HTTP |
 |               |  Test Lead - OCPP |
-|               |  Developer - OCPP |
+|[@SweOlle](https://github.com/SweOlle)|  Developer - OCPP |
 |               |  Developer - OCPP |
 
 
@@ -46,6 +46,10 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |  [@WinterBoii](https://github.com/WinterBoii)  |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
+|   [@eejebring](https://github.com/eejebring)            |  PO  |
+|               |  SM  |
+| [@vikjoh1](https://github.com/vikjoh1)    |  Test Lead  |
+| [@Ville-Wilson](https://github.com/Ville-Wilson)              |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-My-pages
@@ -54,15 +58,15 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
-|               |  Developer  |
+|   [@nvcxlx](https://github.com/nvcxlx) |  Developer  |
+| [@flrn579](https://github.com/flrn579) |  Developer  |
 
 ## FlexiCharge-Cross-Platform
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
-|               |  SM  |
-|               |  Test Lead  |
+| [@AntonThoresson](https://github.com/AntonThoresson)    |  SM  |
+| [@Lundgr0in](https://github.com/Lundgr0in) (Jesper) |  Test Lead  |
 |               |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
@@ -70,20 +74,20 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 ## FlexiCharge-Android
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
-|               |  SM  |
+| [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
+| [@emelyKara](https://github.com/emelyKara) (Emely) |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
+|     [@Ackekarl](https://github.com/Ackekarl)          |  Developer  |
 
 ## FlexiCharge-iOS
 | GitHub Handle | Role |
 |---------------|------|
-|               |  PO  |
+| [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
-|               |  Developer  |
-|               |  Developer  |
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
+|[@Ackekarl](https://github.com/Ackekarl)          |  Developer  |
 
 ## FlexiCharge-Org
 | GitHub Handle | Role |
@@ -91,10 +95,11 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@FlygandeScotty](https://github.com/FlygandeScotty)    |   PM   |
 | [@RobinDavidss0n](https://github.com/RobinDavidss0n)    |  Hardware Architect    |
 | [@AlexTelon](https://github.com/AlexTelon)    |  Software Architect    |
-|               |  Collaboration Master    |
-|               |  Build Master    |
+| [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
+| [@ellencarlsson](https://github.com/ellencarlsson)              |  Build Master    |
 
 ## FlexiCharge-Test-and-integration
 | GitHub Handle | Role |
 |---------------|------|
-|               |      |
+| [@ellencarlsson](https://github.com/ellencarlsson)              |   Build Master   |
+| [@Lillenooben](https://github.com/Lillenooben)    |  Collaboration Master    |
