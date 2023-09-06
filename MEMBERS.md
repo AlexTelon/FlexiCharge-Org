@@ -19,7 +19,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  PO  |
 |               |  SM  |
 |  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
-|               |  Developer  |
+|  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
 |               |  Developer  |
 |               |  Developer  |
 
@@ -45,7 +45,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |   [@eejebring](https://github.com/eejebring)            |  PO  |
 |               |  SM  |
 | [@vikjoh1](https://github.com/vikjoh1)    |  Test Lead  |
-|               |  Developer  |
+| [@Ville-Wilson](https://github.com/Ville-Wilson)              |  Developer  |
 |               |  Developer  |
 
 ## FlexiCharge-My-pages
