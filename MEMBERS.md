@@ -33,7 +33,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |               |  Developer - DB |
 |               |  Test Lead - HTTP |
 |[@albin02forsberg](https://github.com/albin02forsberg)              |  Developer - HTTP |
-|               |  Developer - HTTP |
+|[@victor2000sv](https://github.com/victor2000sv)        |  Developer - HTTP |
 |               |  Test Lead - OCPP |
 |[@SweOlle](https://github.com/SweOlle)|  Developer - OCPP |
 |               |  Developer - OCPP |
