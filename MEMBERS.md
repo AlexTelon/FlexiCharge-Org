@@ -8,7 +8,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |[@ljungqvistaxel](https://github.com/ljungqvistaxel)|  PO  |
 | [@ecle20yy](https://github.com/ecle20yy) (Leon)  |  SM  |
-|               |  Test Lead  |
+| [@davidtey](https://github.com/davidtey) (David) |  Test Lead  |
 | [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
 |               |  Developer  |
 |               |  Developer  |
