@@ -12,15 +12,15 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@ViktorM02](https://github.com/ViktorM02) (Mann) |  Developer  |
 | [@larssonFilip](https://github.com/LarssonFilip). (Filip)  |  Developer  |
 |  [@KevFord](https://github.com/KevFord)             |  Developer  |
-|               |  Developer  |
+|[@hofr19ea](https://github.com/hofr19ea) (Fredrik) |  Developer  |
 ## FlexiCharge-Charge-station-plus
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
-|               |  SM  |
+|  [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)|  SM  |
 |  [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)|  Test Lead  |
 |  [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)|  Developer  |
-|               |  Developer  |
+|  [@abbeishere](https://github.com/abbeishere) (Abdulnaser Abdulfattah)|  Developer  |
 |  [@alno21fp](https://github.com/alno21fp) (Noor aldin Alsaadi) |  Developer  |
 
 ## FlexiCharge-Backend
