@@ -25,7 +25,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)         | Test Lead |
 | [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)                 | Developer |
 | [@abbeishere](https://github.com/abbeishere) (Abdulnaser Abdulfattah) | Developer |
-|                                                                       | Developer |
+|  [@alno21fp](https://github.com/alno21fp) (Noor aldin Alsaadi)        | Developer |
 
 ## FlexiCharge-Backend
 
