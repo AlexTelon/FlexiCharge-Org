@@ -35,7 +35,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |                                                        | SM               |
 |                                                        | Test Lead - DB   |
 | [@Axel-RD](https://github.com/Axel-RD)                 | Developer - DB   |
-|                                                        | Developer - DB   |
+| [@AaronWheezer](https://github.com/AaronWheezer)       | Developer - DB   |
 | [@FelixVerschelde](https://github.com/FelixVerschelde) | Test Lead - HTTP |
 | [@albin02forsberg](https://github.com/albin02forsberg) | Developer - HTTP |
 | [@victor2000sv](https://github.com/victor2000sv)       | Developer - HTTP |
