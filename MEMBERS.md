@@ -43,7 +43,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | GitHub Handle | Role |
 |---------------|------|
 |               |  PO  |
-|  [@WinterBoii](https://github.com/WinterBoii)  |  SM  |
+| [@WinterBoii](https://github.com/WinterBoii)   |  SM  |
 |               |  Test Lead  |
 |               |  Developer  |
 |   [@eejebring](https://github.com/eejebring)            |  PO  |
