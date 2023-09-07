@@ -41,7 +41,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@victor2000sv](https://github.com/victor2000sv)       | Developer - HTTP |
 | [@john-wennerberg](https://github.com/John-Wennerberg) | Test Lead - OCPP |
 | [@SweOlle](https://github.com/SweOlle)                 | Developer - OCPP |
-|                                                        | Developer - OCPP |
+| [@Bacharkita](https://github.com/Bacharkita)           | Developer - OCPP |
 
 ## FlexiCharge-Admin-GUI
 
