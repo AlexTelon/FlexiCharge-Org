@@ -80,7 +80,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | -------------------------------------------------------- | --------- |
 | [@foal20ym](https://github.com/foal20ym) (Alexander)     | PO        |
 | [@emelyKara](https://github.com/emelyKara) (Emely)       | SM        |
-|                                                          | Test Lead |
+| [@TGH97] (https://github.com/TGH97) (Talal)              | Test Lead |
 | [@CDavidSamuelsson](https://github.com/CDavidSamuelsson) | Developer |
 | [@Ackekarl](https://github.com/Ackekarl)                 | Developer |
 
