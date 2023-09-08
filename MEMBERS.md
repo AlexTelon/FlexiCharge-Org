@@ -70,8 +70,8 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |                                                      | PO        |
 | [@AntonThoresson](https://github.com/AntonThoresson) | SM        |
 | [@Lundgr0in](https://github.com/Lundgr0in) (Jesper)  | Test Lead |
+| [@yousefyako](https://github.com/yousefyako)         | Developer |
 | [@KraZzez](https://github.com/KraZzez) (Ludvig)      | Developer |
-|                                                      | Developer |
 |                                                      | Developer |
 
 ## FlexiCharge-Android
