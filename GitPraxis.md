@@ -1,12 +1,12 @@
 # FlexiCharge 2023 Git Guidelines
 
-Git workflows will be structured acording to a `Main -> Dev -> Feature` branch method. This means that there will be no requirements to work using GitHub forks, instead all the work done by a squad will be done in one repository using branches.
+Git workflows will be structured according to a `Main -> Dev -> Feature` branch method. This means that there will be no requirements to work using GitHub forks, instead all the work done by a squad will be done in one repository using branches.
 
 ## Main and Dev
 
 Your repo will be made to have a branch named "Main" and a branch named "Dev". These will be permanent branches throughout the project and will therefore have special protections.
 
-The Dev branch will be the branch that your squad develops on. It will be protected against force pushes, normal pushes, and removal. By having these protections, you guarantee that nobody will accedentally remove the past weeks worth of work. Therefore all changes will be applied through Pull Requests (PR) that will require one other team-member to review the PR before it is approved and pulled into the Dev branch. This other team-member has the responsibility of making sure the PR fulfills your squads Definition of Done, code standard, and any other requirements your squad puts on comitted work. If it does not, then they will **not** approve the PR and point out errors though comments. Only once the PR is free of errors will it be approved. The person who created the PR may then complete the PR.
+The Dev branch will be the branch that your squad develops on. It will be protected against force pushes, normal pushes, and removal. By having these protections, you guarantee that nobody will accidentally remove the past weeks worth of work. Therefore all changes will be applied through Pull Requests (PR) that will require one other team-member to review the PR before it is approved and pulled into the Dev branch. This other team-member has the responsibility of making sure the PR fulfills your squads Definition of Done, code standard, and any other requirements your squad puts on committed work. If it does not, then they will **not** approve the PR and point out errors though comments. Only once the PR is free of errors will it be approved. The person who created the PR may then complete the PR.
 
 The Main branch is the branch that other squads will use. This branch is therefore guarded at a higher standard than the Dev branch. Only once the work done on the Dev branch is at a stable and "good" state is it time to create a PR. There is also only a single person able to approve PRs into the Main branch, and this is the Build Master. The Build Master has the final say on the state of a PR into Main. Only PRs from Dev will be approved, and only a single PR from Dev should exist at the same time to avoid conflicts.
 
