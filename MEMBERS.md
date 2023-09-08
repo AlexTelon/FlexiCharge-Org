@@ -51,7 +51,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@WinterBoii](https://github.com/WinterBoii)     | SM |
 | [@vikjoh1](https://github.com/vikjoh1)           | Test Lead |
 | [@Ville-Wilson](https://github.com/Ville-Wilson) | Developer |
-| [@Issa-morad] (https://github.com/Issa-morad)    |Developer |
+| [@Issa-morad](https://github.com/Issa-morad)     |Developer |
 
 ## FlexiCharge-My-pages
 
