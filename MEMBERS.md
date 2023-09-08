@@ -70,7 +70,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |                                                      | PO        |
 | [@AntonThoresson](https://github.com/AntonThoresson) | SM        |
 | [@Lundgr0in](https://github.com/Lundgr0in) (Jesper)  | Test Lead |
-|                                                      | Developer |
+| [@yousefyako](https://github.com/yousefyako)         | Developer |
 |                                                      | Developer |
 |                                                      | Developer |
 
