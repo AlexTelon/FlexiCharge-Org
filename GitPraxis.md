@@ -26,11 +26,11 @@ To make it really clear what issue is related to what branch, you shall name you
 x/y-z
 
 x = 'feature' or 'bug' or 'hotfix'
-y = GitHub issue number (without #)
+y = GitHub issue number
 z = Name of issue/branch
 ```
 
-Example: `feature/13-add-xray-drivers`
+Example: `feature/#13-add-xray-drivers`
 
 ## Visual Aid
 
