@@ -18,10 +18,10 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 
 ## FlexiCharge-Charge-station-plus
 
-| GitHub Handle                                                         | Role      |
-| --------------------------------------------------------------------- | --------- |
-|                                                                       | PO        |
-| [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)      | SM        |
+| GitHub Handle                                             | Role      |
+| --------------------------------------------------------- | --------- |
+|                                                      [@RakeMakes](https://github.com/RakeMakes) (Erik Pettersson )         | PO |
+|  [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)      | SM        |
 | [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)         | Test Lead |
 | [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)                 | Developer |
 | [@abbeishere](https://github.com/abbeishere) (Abdulnaser Abdulfattah) | Developer |
@@ -71,7 +71,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@AntonThoresson](https://github.com/AntonThoresson) | SM        |
 | [@Lundgr0in](https://github.com/Lundgr0in) (Jesper)  | Test Lead |
 | [@yousefyako](https://github.com/yousefyako)         | Developer |
-|                                                      | Developer |
+| [@KraZzez](https://github.com/KraZzez) (Ludvig)      | Developer |
 |                                                      | Developer |
 
 ## FlexiCharge-Android
