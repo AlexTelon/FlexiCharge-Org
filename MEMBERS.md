@@ -32,7 +32,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | GitHub Handle                                          | Role             |
 | ------------------------------------------------------ | ---------------- |
 | [@loan21xw](https://github.com/loan21xw)               | PO               |
-|                                                        | SM               |
+| [@Maxengw](https://github.com/Maxengw)                 | SM               |
 | [@Dwergaap](https://github.com/Dwergaap)               | Test Lead - DB   |
 | [@Axel-RD](https://github.com/Axel-RD)                 | Developer - DB   |
 | [@AaronWheezer](https://github.com/AaronWheezer)       | Developer - DB   |
