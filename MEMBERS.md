@@ -18,14 +18,14 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 
 ## FlexiCharge-Charge-station-plus
 
-| GitHub Handle                                             | Role      |
-| --------------------------------------------------------- | --------- |
-|                                                      [@RakeMakes](https://github.com/RakeMakes) (Erik Pettersson )         | PO |
-|  [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)      | SM        |
+| GitHub Handle                                                         | Role      |
+| --------------------------------------------------------------------- | --------- |
+| [@RakeMakes](https://github.com/RakeMakes) (Erik Pettersson )         | PO        |
+| [@Mollymango](https://github.com/Mollymango) (Christoffer Kvist)      | SM        |
 | [@Loftwingen](https://github.com/Loftwingen) (Oskar Rundberg)         | Test Lead |
 | [@xMiladi](https://github.com/xmiladi) (Milad Ahmadi)                 | Developer |
 | [@abbeishere](https://github.com/abbeishere) (Abdulnaser Abdulfattah) | Developer |
-|  [@alno21fp](https://github.com/alno21fp) (Noor aldin Alsaadi)        | Developer |
+| [@alno21fp](https://github.com/alno21fp) (Noor aldin Alsaadi)         | Developer |
 
 ## FlexiCharge-Backend
 
@@ -48,10 +48,10 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | GitHub Handle                                    | Role      |
 | ------------------------------------------------ | --------- |
 | [@eejebring](https://github.com/eejebring)       | PO        |
-| [@WinterBoii](https://github.com/WinterBoii)     | SM |
+| [@WinterBoii](https://github.com/WinterBoii)     | SM        |
 | [@vikjoh1](https://github.com/vikjoh1)           | Test Lead |
 | [@Ville-Wilson](https://github.com/Ville-Wilson) | Developer |
-| [@Issa-morad](https://github.com/Issa-morad)     |Developer |
+| [@Issa-morad](https://github.com/Issa-morad)     | Developer |
 
 ## FlexiCharge-My-pages
 
@@ -72,7 +72,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@Lundgr0in](https://github.com/Lundgr0in) (Jesper)  | Test Lead |
 | [@yousefyako](https://github.com/yousefyako)         | Developer |
 | [@KraZzez](https://github.com/KraZzez) (Ludvig)      | Developer |
-|                                                      | Developer |
+| [@Afram7](https://github.com/Afram7)                 | Developer |
 
 ## FlexiCharge-Android
 
@@ -80,7 +80,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | -------------------------------------------------------- | --------- |
 | [@foal20ym](https://github.com/foal20ym) (Alexander)     | PO        |
 | [@emelyKara](https://github.com/emelyKara) (Emely)       | SM        |
-| [@TGH97](https://github.com/TGH97) (Talal)              | Test Lead |
+| [@TGH97](https://github.com/TGH97) (Talal)               | Test Lead |
 | [@CDavidSamuelsson](https://github.com/CDavidSamuelsson) | Developer |
 | [@Ackekarl](https://github.com/Ackekarl)                 | Developer |
 
