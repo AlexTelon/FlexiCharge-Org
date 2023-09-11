@@ -72,7 +72,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@Lundgr0in](https://github.com/Lundgr0in) (Jesper)  | Test Lead |
 | [@yousefyako](https://github.com/yousefyako)         | Developer |
 | [@KraZzez](https://github.com/KraZzez) (Ludvig)      | Developer |
-|                                                      | Developer |
+| [@Afram7](https://github.com/Afram7)                 | Developer |
 
 ## FlexiCharge-Android
 
