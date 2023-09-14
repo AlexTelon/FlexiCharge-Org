@@ -29,8 +29,11 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
-| Goal for other squad... | Link to issue |
+| Goal for Cross Platform | Link to issue |
 | --- | --- |
-| Goal #1 | issue |
-| Goal #2 | issue |
-| Goal #3 | issue |
+| Update the splashscreen package | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/225) |
+| Update the test workflow file | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/224) |
+| Implement the new maps API key | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/223) |
+| Show password requirements in UI | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/120) |
+| Implement UI for changing user settings | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/14) |
+| Implement UI for a user to delete account | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/18) |
