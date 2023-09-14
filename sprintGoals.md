@@ -17,11 +17,15 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
-| Goal for other squad...| Link to issue |
-| --- | --- |
-| Goal #1 | issue |
-| Goal #2 | issue |
-| Goal #3 | issue |
+| Goal for Admin-GUI                       | Link to issue                                                                                                                                                                                                        |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Improve Documentation structure          | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/120)                                                                                                                                               |
+| Turn into stand alone docker container   | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/118)                                                                                                                                               |
+| Standardize File stucture with my-pages  | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/119)                                                                                                                                               |
+| Make mock-data work                      | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/111) [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/110) [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/112) |
+| Update packages                          | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/114)                                                                                                                                               |
+| Make mock-data easy and efficient to use | [issue](https://github.com/AlexTelon/FlexiCharge-Admin-GUI/issues/108)                                                                                                                                               |
+| Clear out testing backlog                |                                                                                                                                                                                                                      |
 
 &nbsp; <!-- spacing -->
 
