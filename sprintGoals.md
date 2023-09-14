@@ -29,6 +29,15 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
+
+| Goal for Web:MyPages | Link to issue |
+| --- | --- |
+| Restructure folders | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/120) |
+| Rewrite All Issues Available | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/124) |
+| Update packages in the project | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/121) |
+| Make a template for pull requests  | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/123) |
+| Correct routing if /profile or /sign-in is called | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/125) |
+
 | Goal for Cross Platform | Link to issue |
 | --- | --- |
 | Update the splashscreen package | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/225) |
