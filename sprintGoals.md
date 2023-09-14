@@ -46,3 +46,10 @@ The goals for each sprint may be published here below for everyone to see.
 | Show password requirements in UI | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/120) |
 | Implement UI for changing user settings | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/14) |
 | Implement UI for a user to delete account | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/18) |
+
+| Goal for Cross Platform | Link to issue |
+| --- | --- |
+| Improve registration flow by logging in user in after verification | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/153) |
+| Update User registration with first and last name input | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/5) |
+
+
