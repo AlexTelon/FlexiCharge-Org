@@ -2,6 +2,37 @@
 
 The goals for each sprint may be published here below for everyone to see.
 
+## Sprint 2
+
+2023-09-18 – 2023-09-22
+
+| Goal for Mobile Native - Android | Link to issue |
+| --- | --- |
+| Implement all the Profile & Settings UI screens from the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/161) |
+| - Implement Account Settings Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/162) |
+| - Implement Charging History Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/164) |
+| - Implement Name and Address Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/165) |
+| - Implement Invoices Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/166) |
+| - Implement Change password Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/168) |
+| Update existing UI Screens to follow the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/172) |
+| Implement GitHub Actions | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/173) |
+| Update User Information | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/154) |
+| - Change name | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/13) |
+| - Change Address | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/14) |
+
+&nbsp; <!-- spacing -->
+
+| Goal for BMS | Link to issue |
+| --- | --- |
+| Read battery cell voltage | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/25) |
+| Create workflow guidelines | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/50) |
+| Set up fresh CubeIDE project | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/51) |
+| Create communicaiton specifications document | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/38) |
+| Set up documentation for software | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/40) |
+| Set up electrical diagram | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/27) |
+
+&nbsp; <!-- spacing -->
+
 ## Sprint 1
 
 2023-09-11 – 2023-09-15
@@ -29,7 +60,6 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
-
 | Goal for Web:MyPages | Link to issue |
 | --- | --- |
 | Restructure folders | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/120) |
@@ -37,6 +67,8 @@ The goals for each sprint may be published here below for everyone to see.
 | Update packages in the project | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/121) |
 | Make a template for pull requests  | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/123) |
 | Correct routing if /profile or /sign-in is called | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/125) |
+
+&nbsp; <!-- spacing -->
 
 | Goal for Cross Platform | Link to issue |
 | --- | --- |
@@ -47,31 +79,9 @@ The goals for each sprint may be published here below for everyone to see.
 | Implement UI for changing user settings | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/14) |
 | Implement UI for a user to delete account | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/18) |
 
+&nbsp; <!-- spacing -->
+
 | Goal for Mobile Native - Android | Link to issue |
 | --- | --- |
 | Improve registration flow by logging in user in after verification | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/153) |
 | Update User registration with first and last name input | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/5) |
-
-
-## Sprint 2
-
-2023-09-18 – 2023-09-22
-
-
-| Goal for Mobile Native - Android | Link to issue |
-| --- | --- |
-| Implement all the Profile & Settings UI screens from the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/161) |
-| - Implement Account Settings Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/162) |
-| - Implement Charging History Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/164) |
-| - Implement Name and Address Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/165) |
-| - Implement Invoices Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/166) |
-| - Implement Change password Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/168) |
-| Update existing UI Screens to follow the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/172) |
-| Implement GitHub Actions | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/173) |
-| Update User Information | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/154) |
-| - Change name | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/13) |
-| - Change Address | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/14) |
-
-
-
-
