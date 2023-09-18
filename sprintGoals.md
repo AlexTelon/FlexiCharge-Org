@@ -20,6 +20,19 @@ The goals for each sprint may be published here below for everyone to see.
 | - Change name | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/13) |
 | - Change Address | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/14) |
 
+&nbsp; <!-- spacing -->
+
+| Goal for BMS | Link to issue |
+| --- | --- |
+| Read battery cell voltage | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/25) |
+| Create workflow guidelines | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/50) |
+| Set up fresh CubeIDE project | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/51) |
+| Create communicaiton specifications document | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/38) |
+| Set up documentation for software | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/40) |
+| Set up electrical diagram | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/27) |
+
+&nbsp; <!-- spacing -->
+
 ## Sprint 1
 
 2023-09-11 – 2023-09-15
