@@ -60,7 +60,6 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
-
 | Goal for Web:MyPages | Link to issue |
 | --- | --- |
 | Restructure folders | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/120) |
@@ -68,6 +67,8 @@ The goals for each sprint may be published here below for everyone to see.
 | Update packages in the project | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/121) |
 | Make a template for pull requests  | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/123) |
 | Correct routing if /profile or /sign-in is called | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/125) |
+
+&nbsp; <!-- spacing -->
 
 | Goal for Cross Platform | Link to issue |
 | --- | --- |
@@ -77,6 +78,8 @@ The goals for each sprint may be published here below for everyone to see.
 | Show password requirements in UI | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/120) |
 | Implement UI for changing user settings | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/14) |
 | Implement UI for a user to delete account | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/18) |
+
+&nbsp; <!-- spacing -->
 
 | Goal for Mobile Native - Android | Link to issue |
 | --- | --- |
