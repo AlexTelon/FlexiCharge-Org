@@ -19,6 +19,8 @@ The goals for each sprint may be published here below for everyone to see.
 | Update User Information | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/154) |
 | - Change name | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/13) |
 | - Change Address | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/14) |
+| Update Gradle version | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/174) |
+| Update User Information validation | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/180) |
 
 &nbsp; <!-- spacing -->
 
