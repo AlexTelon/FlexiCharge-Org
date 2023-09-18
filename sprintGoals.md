@@ -47,9 +47,31 @@ The goals for each sprint may be published here below for everyone to see.
 | Implement UI for changing user settings | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/14) |
 | Implement UI for a user to delete account | [issue](https://github.com/AlexTelon/FlexiCharge-Cross-Platform/issues/18) |
 
-| Goal for Cross Platform | Link to issue |
+| Goal for Mobile Native - Android | Link to issue |
 | --- | --- |
 | Improve registration flow by logging in user in after verification | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/153) |
 | Update User registration with first and last name input | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/5) |
+
+
+## Sprint 2
+
+2023-09-18 – 2023-09-22
+
+
+| Goal for Mobile Native - Android | Link to issue |
+| --- | --- |
+| Implement all the Profile & Settings UI screens from the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/161) |
+| - Implement Account Settings Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/162) |
+| - Implement Charging History Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/164) |
+| - Implement Name and Address Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/165) |
+| - Implement Invoices Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/166) |
+| - Implement Change password Screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/168) |
+| Update existing UI Screens to follow the wireframe | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/172) |
+| Implement GitHub Actions | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/173) |
+| Update User Information | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/154) |
+| - Change name | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/13) |
+| - Change Address | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/14) |
+
+
 
 
