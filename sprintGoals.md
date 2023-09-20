@@ -35,6 +35,16 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
+| Goals for MyPages | Link to issue |
+| --- | --- |
+| Page cannot be scrolled | [issue] | (https://github.com/AlexTelon/FlexiCharge-My-pages/issues/129)
+| Correct routing if /profile or /sign-in is called | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/125) |
+| Secure the website | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/116) |
+| Redesign Charging History | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/93) |
+| Make a pipeline to the project | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/122) |
+| Check if routers work, otherwise contact Backend | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/132) |
+| Create contract for the team | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/134) |
+
 ## Sprint 1
 
 2023-09-11 – 2023-09-15
