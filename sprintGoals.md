@@ -2,6 +2,23 @@
 
 The goals for each sprint may be published here below for everyone to see.
 
+## Sprint 3
+
+2023-09-25 – 2023-09-29
+
+| Goal for Mobile Native - Android | Link to issue |
+| --- | --- |
+| Enable in-app charging | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/196) |
+| Implement Integration Testing into CI/CD pipeline | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/187) |
+| Replace the deprecated JCenter repository | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/184) |
+| Delete User Account | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/18) |
+| Enable in-app charging | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/196) |
+| Change Password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/16) |
+| Retrieve new password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/7) |
+
+
+&nbsp; <!-- spacing -->
+
 ## Sprint 2
 
 2023-09-18 – 2023-09-22
