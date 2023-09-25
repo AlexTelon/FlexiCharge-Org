@@ -16,8 +16,14 @@ The goals for each sprint may be published here below for everyone to see.
 | Change Password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/16) |
 | Retrieve new password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/7) |
 
-
 &nbsp; <!-- spacing -->
+
+| Goal for Backend | Link to issue |
+| --- | --- |
+| Refactor database | [issue](https://github.com/AlexTelon/FlexiCharge-Backend/issues/127) |
+| Move all secrets to environment variables | [issue](https://github.com/AlexTelon/FlexiCharge-Backend/issues/191) |
+| Refactor OCPP testing code | [issue](https://github.com/AlexTelon/FlexiCharge-Backend/issues/162) |
+| Update OCPP documentation | [issue](https://github.com/AlexTelon/FlexiCharge-Backend/issues/183) |
 
 ## Sprint 2
 
