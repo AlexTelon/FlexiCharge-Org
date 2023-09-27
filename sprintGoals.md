@@ -17,6 +17,15 @@ The goals for each sprint may be published here below for everyone to see.
 | Retrieve new password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/7) |
 
 
+| Goal for MyPages | Link to issue |
+| --- | --- |
+| Integrate Get-request | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/142) |
+| Redesign Charging History | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/93) |
+| Integrate Post-request for login | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/140) |
+| Add a issue template | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/148 ) |
+
+
+
 &nbsp; <!-- spacing -->
 
 ## Sprint 2
