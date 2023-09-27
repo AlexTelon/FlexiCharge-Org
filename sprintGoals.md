@@ -16,6 +16,7 @@ The goals for each sprint may be published here below for everyone to see.
 | Change Password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/16) |
 | Retrieve new password | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/7) |
 
+&nbsp; <!-- spacing -->
 
 | Goal for MyPages | Link to issue |
 | --- | --- |
@@ -24,7 +25,15 @@ The goals for each sprint may be published here below for everyone to see.
 | Integrate Post-request for login | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/140) |
 | Add a issue template | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/148 ) |
 
+&nbsp; <!-- spacing -->
 
+| Goal for BMS | Link to issue |
+| --- | --- |
+| Read battery cell voltage | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/25) |
+| Research cell charging | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/52) |
+| Create communicaiton specifications document | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/38) |
+| Create workflow guidelines | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/50) |
+| Measure current | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/47) |
 
 &nbsp; <!-- spacing -->
 
