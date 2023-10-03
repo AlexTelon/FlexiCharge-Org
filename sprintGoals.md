@@ -2,6 +2,19 @@
 
 The goals for each sprint may be published here below for everyone to see.
 
+## Sprint 4
+
+2023-10-02 – 2023-10-06
+
+| Goal for BMS | Link to issue |
+| --- | --- |
+| Research cell charging | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/52) |
+| Create charging circuit | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/49) |
+| Implement communicaiton protocol | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/28) |
+| Create software for charging with MCU | [issue](https://github.com/AlexTelon/FlexiCharge-BMS/issues/48) |
+
+&nbsp; <!-- spacing -->
+
 ## Sprint 3
 
 2023-09-25 – 2023-09-29
