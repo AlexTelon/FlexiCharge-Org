@@ -15,6 +15,14 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
+| Goal for MyPages  | Link to issue |
+| --- | --- |
+| Add a linter | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/147) |
+| Integrate Put-request for updating data | [issue]( https://github.com/AlexTelon/FlexiCharge-My-pages/issues/141)|
+| Integrate Get-request | [issue]( https://github.com/AlexTelon/FlexiCharge-My-pages/issues/142) |
+
+&nbsp; <!-- spacing -->
+
 ## Sprint 3
 
 2023-09-25 – 2023-09-29
