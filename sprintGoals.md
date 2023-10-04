@@ -20,6 +20,8 @@ The goals for each sprint may be published here below for everyone to see.
 | Add a linter | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/147) |
 | Integrate Put-request for updating data | [issue]( https://github.com/AlexTelon/FlexiCharge-My-pages/issues/141)|
 | Integrate Get-request | [issue]( https://github.com/AlexTelon/FlexiCharge-My-pages/issues/142) |
+| Table Design | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/158) |
+| Design Content Pages | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/157)|
 
 &nbsp; <!-- spacing -->
 
