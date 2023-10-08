@@ -15,6 +15,7 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
+
 | Goal for MyPages  | Link to issue |
 | --- | --- |
 | Add a linter | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/147) |
@@ -22,6 +23,16 @@ The goals for each sprint may be published here below for everyone to see.
 | Integrate Get-request | [issue]( https://github.com/AlexTelon/FlexiCharge-My-pages/issues/142) |
 | Table Design | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/158) |
 | Design Content Pages | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/157)|
+
+| Goal for Mobile Native - Android | Link to issue |
+| --- | --- |
+| Implement notifications for charging status | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/206) |
+| Update dependencies for integration testing | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/205) |
+| The password toggle icon and the error display icon overlapped | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/140) |
+| Change phone number | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/17) |
+| Update reset password screen | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/143) |
+| Replace string literals | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/146) |
+
 
 &nbsp; <!-- spacing -->
 
