@@ -2,6 +2,22 @@
 
 The goals for each sprint may be published here below for everyone to see.
 
+## Sprint 5
+
+2023-10-09 – 2023-10-13
+
+| Goal for Mobile Native - Android | Link to issue |
+| --- | --- |
+| Implement Ktlint | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/213) |
+| Update existing documentation in the Docs folder | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/223) |
+| Create documentation for charging process | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/224) |
+| Documentation of KtLint | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/225) |
+| Update dependencies for integration testing | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/205) |
+| Implement integration testing into the CI/CD pipeline | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/187) |
+
+&nbsp; <!-- spacing -->
+---
+
 ## Sprint 4
 
 2023-10-02 – 2023-10-06
