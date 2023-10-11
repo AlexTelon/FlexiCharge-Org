@@ -16,7 +16,14 @@ The goals for each sprint may be published here below for everyone to see.
 | Implement integration testing into the CI/CD pipeline | [issue](https://github.com/AlexTelon/FlexiCharge-Android/issues/187) |
 
 &nbsp; <!-- spacing -->
----
+
+| Goal for MyPages  | Link to issue |
+| --- | --- |
+| Add a linter | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/147) |
+| Integrate Put-request for updating data  | [issue](https://github.com/AlexTelon/FlexiCharge-My-pages/issues/141) |
+
+&nbsp; <!-- spacing -->
+
 
 ## Sprint 4
 
